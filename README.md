@@ -5,7 +5,7 @@ This repository includes machine learning algorithms and its applications in a v
 
 Contents:
 1. Supervised Learning
-    -  
+    - SVM
 
 2. Unsupervised Learning
     - K-Means: Clustering using K-Means [see details and codes](https://github.com/yousef-seyfari/Machine-Learning/blob/main/unsupervised_kmeans.ipynb)
