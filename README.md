@@ -8,5 +8,5 @@ Contents:
     - SVM
 
 2. Unsupervised Learning
-    - K-Means: Clustering using K-Means [see details and codes](https://github.com/yousef-seyfari/Machine-Learning/blob/main/unsupervised_kmeans.ipynb)
+    - K-Means: Clustering using K-Means [(go to the details and codes)](https://github.com/yousef-seyfari/Machine-Learning/blob/main/unsupervised_kmeans.ipynb)
 
